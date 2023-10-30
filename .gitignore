@@ -65,6 +65,6 @@ xmlrpc.php
 .vscode/
 
 # Include custom theme(s) and plugin(s) you want to push
-
-!/ardortech/
-!/wp-content/plugins/your-custom-plugin
+/wp-content/themes/*
+!/wp-content/themes/ardortech/
+/wp-content/themes/*/
