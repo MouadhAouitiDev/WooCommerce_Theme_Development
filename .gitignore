@@ -1,0 +1,70 @@
+# Ignore WordPress core files and standard directories
+/wp-admin/
+/wp-includes/
+/wp-content/plugins/
+/wp-content/uploads/
+/wp-content/cache/
+/wp-content/upgrade/
+/wp-content/temp/
+wp-config.php
+.env
+.htaccess
+index.php
+license.txt
+readme.html
+wp-activate.php
+wp-blog-header.php
+wp-comments-post.php
+wp-config-sample.php
+wp-cron.php
+wp-links-opml.php
+wp-load.php
+wp-login.php
+wp-mail.php
+wp-settings.php
+wp-signup.php
+wp-trackback.php
+xmlrpc.php
+
+# Ignore editor and IDE configuration files
+.idea/
+.vscode/
+
+# Include custom theme(s) and plugin(s) you want to push
+
+# Ignore WordPress core files and standard directories
+/wp-admin/
+/wp-includes/
+/wp-content/plugins/
+/wp-content/uploads/
+/wp-content/cache/
+/wp-content/upgrade/
+/wp-content/temp/
+wp-config.php
+.env
+.htaccess
+index.php
+license.txt
+readme.html
+wp-activate.php
+wp-blog-header.php
+wp-comments-post.php
+wp-config-sample.php
+wp-cron.php
+wp-links-opml.php
+wp-load.php
+wp-login.php
+wp-mail.php
+wp-settings.php
+wp-signup.php
+wp-trackback.php
+xmlrpc.php
+
+# Ignore editor and IDE configuration files
+.idea/
+.vscode/
+
+# Include custom theme(s) and plugin(s) you want to push
+
+!/wp-content/themes/ardortech/
+!/wp-content/plugins/your-custom-plugin
