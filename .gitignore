@@ -66,5 +66,5 @@ xmlrpc.php
 
 # Include custom theme(s) and plugin(s) you want to push
 
-!/wp-content/themes/ardortech/
+!/ardortech/
 !/wp-content/plugins/your-custom-plugin
